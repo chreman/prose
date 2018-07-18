@@ -1,2 +1,2 @@
 # prose
-First steps of application network analysis on preprocessed prose texts.
+First steps of applying network analysis on preprocessed prose texts.
